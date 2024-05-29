@@ -16,3 +16,4 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo mkdir /home/midterm
 cd /home/midterm
 sudo wget http://midterm2024cs.s3.amazonaws.com/docker-compose.yml
+sudo docker compose up -d
